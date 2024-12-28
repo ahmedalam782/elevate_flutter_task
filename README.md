@@ -1,16 +1,24 @@
 # elevate_flutter_task
 
-A new Flutter project.
+[![Crates.io](https://img.shields.io/crates/l/rustc-serialize.svg?maxAge=2592000)]()
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<img width="40%" src="https://github.com/user-attachments/assets/529dd0dd-3953-4e44-8629-dfd0a1cf08bd"/>
+<img width="40%" src="https://github.com/user-attachments/assets/f382e776-eeb7-49b4-adaf-02a38564607e"/>
 
-A few resources to get you started if this is your first Flutter project:
+# Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Get Products: Get Products from Api .
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Technologies Used
+
+Flutter: A UI toolkit for building natively compiled applications for mobile.
+
+RestFullApi : to get product
+
+Use MVVM pattern with bloc or cubit
+
+Repository pattern 
+
+DI (injectable-get it)
+
